@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/KazeDevID/get-pic-waifuuu/main/20210621_120358.jpg" width="300" height="300"/>
-<br>
-get-pic-waifuuu
-</p>
 
 ## Install:
 ```bash
